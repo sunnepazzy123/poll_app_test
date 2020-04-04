@@ -6,6 +6,10 @@
   "scripts": {
     "start": "npm app.js"
   },
+"repository": {
+  "type": "git",
+  "url": "https://github.com/sunnepazzy123/poll_app_test.git"
+},
   "author": "Sunny Odibo",
   "license": "ISC",
   "dependencies": {
